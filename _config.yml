@@ -11,7 +11,8 @@ title: N Cap
 # Description of the Site
 description: 这是个测试网站!
 # URL of Image of the Site
-site-image: assets\images\logo.png
+logo: assets\images\logo.png
+logoheight: 5
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
