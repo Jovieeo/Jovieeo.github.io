@@ -7,14 +7,14 @@ url: 'http://Jovieeo.github.io'
 baseurl: 
 
 # Title of the Site
-title: N Cap
+title: 自然数资本
 # Description of the Site
-description: 这是个测试网站!
+description: 让科技创业更简单!
 # URL of Image of the Site
 logo: assets\images\logo.png
-logoheight: 5
+logoheight: 8
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: 科技, 创业
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -36,19 +36,12 @@ dribbble_username: /
 spotify_username: /
 
 # Google Analytics
-google-analytics: UA-163806439-1
+#  google-analytics: UA-163806439-1
 
-# Disqus
-disqus-shortname: thedevslot
 
-# Name of the Author
-author-name: TheDevsLot
-# URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
-# 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspen Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspen Lorem ipsum dolor sit amet, consectetur adipiscing elit. SuspenLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
-# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+# About Us
+company-about: 公司简介：自然数资本专注于高新技术初创企业的融资服务，依托科研和创投复合背景团队，坚持标准化和数字化的理念，敏锐捕捉技术突破，系统梳理商业价值，高效助力创业融资，让科技创业更简单！
+team-about: 团队成员毕业于清华大学、复旦大学、哈尔滨工业大学等，均取得工学及MBA硕士学位，发表数篇SCI和EI论文，曾工作于Discover Financial Services、联合电子、字节跳动投资部、线性资本、火山石资本等，从事技术或投资的平均年限超过5年
 
 # SASS
 sass:
