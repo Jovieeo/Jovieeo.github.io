@@ -16,8 +16,9 @@ logoheight: 15
 # Keywords of the Site
 site-keywords: 科技, 创业
 # URL for the Image of custom Favicon
-favicon-url: 
-
+favicon-url: assets\images\n_for_web.png
+# URL for the Image of about image
+about-image: assets\images\logo_for_web.png
 # Google Analytics
 #  google-analytics: UA-163806439-1
 
