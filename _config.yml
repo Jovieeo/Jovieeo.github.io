@@ -7,9 +7,9 @@ url: 'http://www.naturalcap.cn'
 baseurl: 
 
 # Title of the Site
-title: 自然数资本，让科技创业更简单!
+title: 自然数资本
 # Description of the Site
-description: 当人类用数字描述自然时，科学便向前迈进了一大步。自然数，代表着人类求是、理性、严谨、创新的科学精神，也象征着创业从0到N的伟大历程。
+description: 让科技创业更简单!
 # URL of Image of the Site
 logo: assets\images\logo_for_web.png
 logoheight: 15
@@ -23,6 +23,7 @@ favicon-url:
 
 
 # About Us
+logo-about: 当人类用数字描述自然时，科学便向前迈进了一大步。自然数，代表着人类求是、理性、严谨、创新的科学精神，也象征着创业从0到N的伟大历程。
 company-about: 自然数资本专注于前沿科技初创企业的融资服务，依托科研和创投复合背景团队，坚持标准化和数字化的理念，敏锐捕捉技术突破，系统梳理商业价值，高效助力创业融资，让科技创业更简单！
 team-about: 团队成员毕业于清华大学、复旦大学、哈尔滨工业大学等，取得工学及MBA硕士学位，发表数篇SCI和EI论文，曾工作于Discover Financial Services、联合电子、字节跳动投资部、线性资本、火山石资本等，从事技术或投资的平均年限超过5年！
 
