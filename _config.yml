@@ -7,9 +7,9 @@ url: 'http://www.naturalcap.cn'
 baseurl: 
 
 # Title of the Site
-title: 自然数资本
+title: 自然数资本，让科技创业更简单!
 # Description of the Site
-description: 让科技创业更简单!
+description: 当人类用数字描述自然时，科学便向前迈进了一大步。自然数，代表着人类求是、理性、严谨、创新的科学精神，也象征着创业从0到N的伟大历程。
 # URL of Image of the Site
 logo: assets\images\logo_for_web.png
 logoheight: 15
