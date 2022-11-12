@@ -16,7 +16,7 @@ logoheight: 40
 # Keywords of the Site
 site-keywords: 自然数资本，naturalcap，natural capital
 # URL for the Image of custom Favicon
-favicon-url: /assets/images/n_for_web.png
+favicon-url: assets\images\n_for_web.png
 # URL for the Image of about image
 about-image: assets\images\AI-gen-airspace-v1.jpg
 # URL for the Image of team image
