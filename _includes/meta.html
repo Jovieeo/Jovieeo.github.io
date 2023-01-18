@@ -12,7 +12,7 @@
 
 <!-- Search Engine -->
 <meta name="description" content="{{site.description}}">
-<meta name="image" content="{% unless page.layout == 'post' %}{{site.site-image}}{% else %}{{page.post-image}}{% endunless %}">
+<meta name="image" content="{% unless page.layout == 'post' %}{{site.logo}}{% else %}{{page.post-image}}{% endunless %}">
 <!-- Schema.org for Google -->
 <meta itemprop="name" content="{{site.title}}{% if page.title %} | {{page.title}}{% endif %}">
 <!-- meta name="author" content="{{site.author-name}}"/-->
